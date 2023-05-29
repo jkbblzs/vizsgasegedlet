@@ -1,0 +1,9 @@
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\bin\Debug\utca.txt
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\bin\Debug\Balaton.exe.config
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\bin\Debug\Balaton.exe
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\bin\Debug\Balaton.pdb
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\obj\Debug\BalatonCLI.csproj.AssemblyReference.cache
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\obj\Debug\BalatonCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\obj\Debug\BalatonCLI.csproj.CoreCompileInputs.cache
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\obj\Debug\Balaton.exe
+C:\Users\jkb_blzs\source\repos\Balaton\Balaton\obj\Debug\Balaton.pdb

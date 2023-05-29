@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelsinkiWPF/1.0.0": {
+        "runtime": {
+          "HelsinkiWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelsinkiWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

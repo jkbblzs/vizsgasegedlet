@@ -1,0 +1,9 @@
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki.txt
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe.config
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\bin\Debug\helsinki1952.pdb
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\jkb_blzs\source\repos\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb

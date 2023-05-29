@@ -1,0 +1,17 @@
+﻿<Window x:Class="BalatonWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BalatonWPF"
+        mc:Ignorable="d"
+        Title="BalatonWPF" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="dtg_adatok" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,348,0"/>
+        <ComboBox Name="cmb_box" HorizontalAlignment="Left" Margin="505,24,0,0" VerticalAlignment="Top" Width="66" Height="28">
+        </ComboBox>
+        <Button Content="Módosít" HorizontalAlignment="Left" Margin="630,24,0,0" VerticalAlignment="Top" Height="28" Width="107" Click="Modosit_Click"/>
+        <Button Content="Mentés" HorizontalAlignment="Left" Margin="630,85,0,0" VerticalAlignment="Top" Height="23" Width="107" Click="Mentes_Click"/>
+
+    </Grid>
+</Window>
