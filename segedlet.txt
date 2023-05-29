@@ -1,3 +1,5 @@
+Kötéseknél !!!!!!!!CASCADE!!!!!!!!
+
 Scaffold db: Scaffold-DbContext "server=localhost;database=****;user=root;password=;sslmode=none;" mysql.entityframeworkcore -outputdir Models –f
 
 React parancsok:  npx create-react-app .
